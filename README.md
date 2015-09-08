@@ -1,2 +1,2 @@
 # react-dashboard
-ashboard components built with React
+Dashboard components built with React
